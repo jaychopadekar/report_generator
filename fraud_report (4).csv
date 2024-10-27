@@ -1,0 +1,55 @@
+Date,Customer_name,Transaction_id,Amount_Sent,Receiver_type,Receiver_location,Status,Reason,Recommendation
+11-10-24,Dorris Froom,01JB4F8XEB7KFK9EE05VY26V1P,169963,Person,United States,Fraud,Transaction ID '01JB4F8XEB7KFK9EE05VY26V1P' is duplicated.,Investigation required.
+10-10-24,Cullin Chadbourn,01JB4F8XEB7KFK9EE05VY26V1P,158301,Person,China,Fraud,Transaction ID '01JB4F8XEB7KFK9EE05VY26V1P' is duplicated.,Investigation required.
+25-10-24,Carmen Callaway,01JB4F8X52P5P44C1ZSZG2RS1E,571644,Unknown,Brazil,Flagged Fraud,Flagged due to unknown receiver type.,Confirm with Sender.
+24-10-24,Lisetta Taillard,01JB4F8XHBG1EYBNHPSH0TH9TH,136150,Unknown,Poland,Flagged Fraud,Flagged due to unknown receiver type.,Confirm with Sender.
+23-10-24,Risa Cozby,01JB4F8XDQGMMG02M56N8PE6YM,79544,Unknown,Poland,Flagged Fraud,Flagged due to unknown receiver type.,Confirm with Sender.
+19-10-24,Kristofor Trawin,01JB4F8X3M3E49JB79AJ3B3XBP,479803,Unknown,Tajikistan,Flagged Fraud,Flagged due to unknown receiver type.,Confirm with Sender.
+18-10-24,Bryana Stone,01JB4F8X9DMBPZQ37T8Q1F0X78,743936,Unknown,China,Flagged Fraud,Flagged due to unknown receiver type.,Confirm with Sender.
+18-10-24,Blanch Norsister,01JB4F8XJZBWXM3W729XQF086P,739816,Unknown,China,Flagged Fraud,Flagged due to unknown receiver type.,Confirm with Sender.
+16-10-24,Archambault Angood,01JB4F8X205S5J8SCM43S5G7PC,615847,Unknown,Indonesia,Flagged Fraud,Flagged due to unknown receiver type.,Confirm with Sender.
+16-10-24,Forster Garbutt,01JB4F8XFHRPFQR06J8C64D3J3,531409,Unknown,China,Flagged Fraud,Flagged due to unknown receiver type.,Confirm with Sender.
+15-10-24,Davon Rodgers,01JB4F8X3FB9NFEV01M5XM92PH,365416,Unknown,China,Flagged Fraud,Flagged due to unknown receiver type.,Confirm with Sender.
+15-10-24,Patrizio Pynner,01JB4F8X4Z26373F9BTPENF9YQ,186035,Unknown,Nigeria,Flagged Fraud,Flagged due to unknown receiver type.,Confirm with Sender.
+14-10-24,Hestia Chawner,01JB4F8XMEY4X8NG4J9S2161WH,689592,Unknown,Poland,Flagged Fraud,Flagged due to unknown receiver type.,Confirm with Sender.
+13-10-24,Kyle Karlqvist,01JB4F8X4SC7DCEY9RK17V2TE0,81628,Unknown,China,Flagged Fraud,Flagged due to unknown receiver type.,Confirm with Sender.
+13-10-24,Noak Filon,01JB4F8XH13G1ZA85CQMTVPJNF,822732,Unknown,Belarus,Flagged Fraud,Flagged due to unknown receiver type.,Confirm with Sender.
+13-10-24,Merrill Leahair,01JB4F8XKQNZZXR813Q03GQG0Z,788883,Person,Unknown,Fraud,Flagged due to unknown receiver location.,Investigation required.
+11-10-24,Aubrey Macy,01JB4F8WZES76V20R5TR5DKN6V,653644,Unknown,United States,Flagged Fraud,Flagged due to unknown receiver type.,Confirm with Sender.
+10-10-24,Crawford Sotworth,01JB4F8X32T3VFAGG1ZF854PR3,550861,NGO,Unknown,Fraud,Flagged due to unknown receiver location.,Investigation required.
+09-10-24,Rawley Craig,01JB4F8WYS86Z8E3DRY7WSZBAW,695673,Unknown,Brazil,Flagged Fraud,Flagged due to unknown receiver type.,Confirm with Sender.
+05-10-24,Cordelia Ruffler,01JB4F8XFRSBFQ2Q13YVT1VX13,947613,Unknown,Philippines,Flagged Fraud,Flagged due to unknown receiver type.,Confirm with Sender.
+01-10-24,Grazia Bramford,01JB4F8XMDGMKMNN9AJ4EKPVX7,39442,Unknown,Mexico,Flagged Fraud,Flagged due to unknown receiver type.,Confirm with Sender.
+30-09-24,Malorie Sleeford,01JB4F8XM7T4QY8HBGCC29E400,220518,Unknown,France,Flagged Fraud,Flagged due to unknown receiver type.,Confirm with Sender.
+29-09-24,Birgit Manilow,01JB4F8X1BYGHGZHQCF86ZRX68,350501,Unknown,China,Flagged Fraud,Flagged due to unknown receiver type.,Confirm with Sender.
+29-09-24,Brandea Basset,01JB4F8XC4W40BV88SBDP2AGD4,850169,Person,Unknown,Fraud,Flagged due to unknown receiver location.,Investigation required.
+28-09-24,Claudina Lemmon,01JB4F8XA4TENQZPHB5Q0M3Q21,938350,Unknown,Indonesia,Flagged Fraud,Flagged due to unknown receiver type.,Confirm with Sender.
+27-09-24,Dyanne Redgewell,01JB4F8XGFCVVYHXREE7SNQSE5,237374,Unknown,Unknown,Flagged Fraud,Flagged due to unknown receiver type.,Confirm with Sender.
+27-09-24,Dyanne Redgewell,01JB4F8XGFCVVYHXREE7SNQSE5,237374,Unknown,Unknown,Fraud,Flagged due to unknown receiver location.,Investigation required.
+26-09-24,Miguel Penwright,01JB4F8XHKFDBY83PYVVCHZEK8,629551,Merchant,Unknown,Fraud,Flagged due to unknown receiver location.,Investigation required.
+25-09-24,Hubert Ulyet,01JB4F8XAJASPGXJWV3TNBDSD0,464817,Unknown,Australia,Flagged Fraud,Flagged due to unknown receiver type.,Confirm with Sender.
+23-09-24,Batsheva Schlagh,01JB4F8XF91HZ1WJR42NEW8MWB,993154,Person,China,Flagged Fraud,Batsheva Schlagh has more than 5 transactions on the same day.,Confirm with Sender.
+23-09-24,Batsheva Schlagh,01JB4F8X3EHPGQQH644H073KF3,111306,NGO,China,Flagged Fraud,Batsheva Schlagh has more than 5 transactions on the same day.,Confirm with Sender.
+23-09-24,Batsheva Schlagh,01JB4F8X5CKJEYRPGA292J3P3W,204607,Merchant,France,Flagged Fraud,Batsheva Schlagh has more than 5 transactions on the same day.,Confirm with Sender.
+23-09-24,Batsheva Schlagh,01JB4F8XD09DGX0RPCQCBDF7PG,294219,Merchant,Indonesia,Flagged Fraud,Batsheva Schlagh has more than 5 transactions on the same day.,Confirm with Sender.
+23-09-24,Batsheva Schlagh,01JB4F8XDVXHKJJHPHX72DH5NV,665350,NGO,Ukraine,Flagged Fraud,Batsheva Schlagh has more than 5 transactions on the same day.,Confirm with Sender.
+23-09-24,Batsheva Schlagh,01JB4F8XH2ARBH9J5SGNEJF52W,829503,Person,China,Flagged Fraud,Batsheva Schlagh has more than 5 transactions on the same day.,Confirm with Sender.
+23-09-24,Batsheva Schlagh,01JB4F8XJ02JBJKDHMSBHVA4B5,519960,Merchant,China,Flagged Fraud,Batsheva Schlagh has more than 5 transactions on the same day.,Confirm with Sender.
+17-09-24,Caria Kraft,01JB4F8XDT4BKCG5Z7XC8PGCXV,64104,Unknown,China,Flagged Fraud,Flagged due to unknown receiver type.,Confirm with Sender.
+16-09-24,Kissie Goane,01JB4F8X711WB8MVBWNHVH7YJB,899663,Unknown,Kosovo,Flagged Fraud,Flagged due to unknown receiver type.,Confirm with Sender.
+12-09-24,Meara Wingar,01JB4F8XFZPPSW9H0PJPSA7YRV,609330,Unknown,Thailand,Flagged Fraud,Flagged due to unknown receiver type.,Confirm with Sender.
+12-09-24,Jean Mattersey,01JB4F8XHXH4DGCDZ4P96R3MWW,64661,Unknown,Saudi Arabia,Flagged Fraud,Flagged due to unknown receiver type.,Confirm with Sender.
+11-09-24,Quincy Brolechan,01JB4F8X7Q321S1SMAY9JC0Z6Q,950666,Unknown,Gabon,Flagged Fraud,Flagged due to unknown receiver type.,Confirm with Sender.
+11-09-24,Hanni Bellfield,01JB4F8XJ5CH1NZMS6YQDAWW1T,397705,NGO,Unknown,Fraud,Flagged due to unknown receiver location.,Investigation required.
+10-09-24,Eliot Aronovitz,01JB4F8XGT876GRCCCW6F4RDSS,549102,Unknown,Australia,Flagged Fraud,Flagged due to unknown receiver type.,Confirm with Sender.
+09-09-24,Mercedes Bonefant,01JB4F8X757EW2SH05Y4DSZQGS,71734,Unknown,China,Flagged Fraud,Flagged due to unknown receiver type.,Confirm with Sender.
+09-09-24,Lynn Needham,01JB4F8XD4QWQYC9V6RZ312QZB,136855,Unknown,Guam,Flagged Fraud,Flagged due to unknown receiver type.,Confirm with Sender.
+06-09-24,Wynn MacCaull,01JB4F8X0Z8EW5D2DBNVX02PNQ,336699,Unknown,Senegal,Flagged Fraud,Flagged due to unknown receiver type.,Confirm with Sender.
+06-09-24,Anderea Redit,01JB4F8X7PQHT381WS2FWDJFS5,9878976,Person,Brazil,Flagged Fraud,Flagged due to high amount sent: 9878976.,Confirm with Sender.
+04-09-24,George Peak,01JB4F8X2QETMKJB3BXTMQ34SN,480769,Unknown,China,Flagged Fraud,Flagged due to unknown receiver type.,Confirm with Sender.
+31-08-24,Shandy Dunmore,01JB4F8X0ZZ3C1WE59PZVP444H,664347,Unknown,Argentina,Flagged Fraud,Flagged due to unknown receiver type.,Confirm with Sender.
+30-08-24,Austine Britten,01JB4F8XDJZ7G9TYA8QG0K36FK,486762,Unknown,China,Flagged Fraud,Flagged due to unknown receiver type.,Confirm with Sender.
+30-08-24,Guy Lohoar,01JB4F8XHW7SEMMVQDXA5WVZ7Z,300841,Unknown,China,Flagged Fraud,Flagged due to unknown receiver type.,Confirm with Sender.
+29-08-24,Verine Pedro,01JB4F8XACVE0VSHEZKFF6SFY8,299888,Unknown,Bulgaria,Flagged Fraud,Flagged due to unknown receiver type.,Confirm with Sender.
+27-08-24,Bea Hebron,01JB4F8XFA7F5H94A8CP3EQZN8,713252,Unknown,Indonesia,Flagged Fraud,Flagged due to unknown receiver type.,Confirm with Sender.
+26-08-24,Stan Gitsham,01JB4F8X827Z5JYHASQRKTHW34,880242,Unknown,Belarus,Flagged Fraud,Flagged due to unknown receiver type.,Confirm with Sender.
